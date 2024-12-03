@@ -1,0 +1,3 @@
+The Vehicle Detector is a machine learning model designed to accurately identify vehicles in real-time, with a specific focus on Indian road conditions and the types of vehicles commonly found in India. Leveraging advanced object detection techniques, the model processes visual data from images or video feeds to detect and classify vehicles.
+
+This solution is optimized for the unique diversity of Indian vehicles, ensuring accurate identification across a wide range of environments, including urban streets, highways, and rural roads. It is designed to handle variations in lighting, weather, and crowded traffic scenarios, making it highly adaptable and robust.
